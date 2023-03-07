@@ -11,9 +11,9 @@ sections:
       image:
         filename: hero-academic.png
       text: |-
-        **Hello, this is Yu Shuyan's Blog!!.**
+        **Hello, this is Yu's Blog!!.**
 
-        **喻姝研的网站啦啦啦啦!**
+        **yu的网站啦啦啦啦!**
 
         2023年3月4日创建的噢.
 
